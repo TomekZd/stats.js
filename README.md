@@ -1,4 +1,4 @@
-stats.js
+stats.js (fork)
 ========
 
 #### JavaScript Performance Monitor ####
